@@ -12,11 +12,11 @@ A curated list of awesome Milvus projects and resources.
   -  [haystack](https://github.com/deepset-ai/haystack)
   -  [milvus-bootcamp](https://github.com/milvus-io/bootcamp)
     
-  ## APIs 
+  ## SDKs 
   -  [pymilvus](https://github.com/milvus-io/pymilvus)
   -  [milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
   -  [milvus-sdk-java](https://github.com/milvus-io/milvus-sdk-java)
-  -  [milvus-sdk-node)](https://github.com/milvus-io/milvus-sdk-node)
+  -  [milvus-sdk-node](https://github.com/milvus-io/milvus-sdk-node)
     
   ## Tools
   -  [attu](https://github.com/zilliztech/attu)
