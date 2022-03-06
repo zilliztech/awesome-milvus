@@ -22,7 +22,8 @@ A curated list of awesome Milvus projects and resources.
   -  [attu](https://github.com/zilliztech/attu)
   -  [milvus_cli](https://github.com/zilliztech/milvus_cli)
   -  [milvus-operator](https://github.com/milvus-io/milvus-operator)
-  
+  -  [milvus-helm](https://github.com/milvus-io/milvus-helm)
+
   ## Related repos
   -  [faiss](https://github.com/facebookresearch/faiss)
   -  [hnsw](https://github.com/nmslib/hnswlib)
