@@ -18,7 +18,7 @@ A curated list of awesome Milvus projects and resources.
   -  [milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
   -  [milvus-sdk-java](https://github.com/milvus-io/milvus-sdk-java)
   -  [milvus-sdk-node](https://github.com/milvus-io/milvus-sdk-node)
-  -  [qmilvus][https://github.com/yangkequn/q-milvus-driver-for-go] a simple go milvus connector
+  -  [qmilvus](https://github.com/yangkequn/q-milvus-driver-for-go) a simple go milvus connector
     
   ## Tools
   -  [attu](https://github.com/zilliztech/attu)
