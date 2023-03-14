@@ -46,7 +46,6 @@
 
 -  [milvus 1.0](https://dl.acm.org/doi/abs/10.1145/3448016.3457550)
 
-Contributions are warmly welcomed!
 
 ## Contribute
 
